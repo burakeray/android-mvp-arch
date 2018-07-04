@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mvp-architecture</string>
+    <string name="splash">Splash</string>
+</resources>
